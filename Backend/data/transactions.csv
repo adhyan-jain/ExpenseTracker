@@ -1,0 +1,4 @@
+id,email,category,amount,date,account,notes,type,icon
+1,user1@example.com,Food,50.00,2025-03-30,Wallet,Weekly groceries,expense,shopping-basket
+2,user1@example.com,Transport,30.00,2025-03-29,Wallet,Petrol,expense,car
+3,user1@example.com,Entertainment,20.00,2025-03-28,Wallet,Movie ticket,expense,film
